@@ -4,7 +4,7 @@
 import time
 import unittest
 
-from route_service import dijkstra, generate_graph
+from src.route_service import dijkstra, generate_graph
 
 
 class DijkstraTests(unittest.TestCase):
