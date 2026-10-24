@@ -1,0 +1,9 @@
+Algorithm,Locations,Connections,Median Runtime (ms),Route Cost,Nodes Explored
+Dijkstra,100,293,0.269,100,99
+A*,100,293,0.226,100,39
+Dijkstra,500,1487,1.977,508,500
+A*,500,1487,1.037,508,88
+Dijkstra,1000,2985,4.078,1003,1000
+A*,1000,2985,3.121,1003,349
+Dijkstra,2000,5987,14.864,2000,1999
+A*,2000,5987,6.639,2000,392
