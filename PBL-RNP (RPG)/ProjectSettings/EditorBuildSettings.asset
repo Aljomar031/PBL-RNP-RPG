@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 35b57ae184b32554eb1fb2ec0a3ab061
+  - enabled: 1
+    path: Assets/Scenes/Registration.unity
+    guid: 685fd4310840bee41a6dfb7d889d1b44
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 2e16535a7e6a54b4eab00315cecb6ba4
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Village_Center.unity
+    guid: 6c8297e8dbdad5742888a9e55e586e94
+  - enabled: 1
+    path: Assets/Scenes/Vertical_Hall.unity
+    guid: 9879d03522c42fd4a945d361cc02603e
+  - enabled: 1
+    path: Assets/Scenes/Horizontal_Hall.unity
+    guid: 3ea719bd8c4f9354b9b8f8fba5eb4d62
+  - enabled: 1
+    path: Assets/Scenes/Floating_Island.unity
+    guid: 09c94f95bcf612048ba4d9a41186ae56
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0
